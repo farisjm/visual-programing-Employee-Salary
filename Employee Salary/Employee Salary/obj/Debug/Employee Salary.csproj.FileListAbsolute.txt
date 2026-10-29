@@ -1,0 +1,11 @@
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee Salary.csproj.AssemblyReference.cache
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee Salary.csproj.SuggestedBindingRedirects.cache
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee_Salary.Form1.resources
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee_Salary.Properties.Resources.resources
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee Salary.csproj.GenerateResource.cache
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee Salary.csproj.CoreCompileInputs.cache
+Z:\IT2143\Employee Salary\Employee Salary\bin\Debug\Employee Salary.exe.config
+Z:\IT2143\Employee Salary\Employee Salary\bin\Debug\Employee Salary.exe
+Z:\IT2143\Employee Salary\Employee Salary\bin\Debug\Employee Salary.pdb
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee Salary.exe
+Z:\IT2143\Employee Salary\Employee Salary\obj\Debug\Employee Salary.pdb
