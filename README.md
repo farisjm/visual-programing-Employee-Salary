@@ -55,3 +55,9 @@ University of Vavuniya, Sri Lanka
 GitHub: [@farisjm](https://github.com/farisjm)
 
 ## 📚 Purpose
+
+This project was created for educational and academic practice as part of Visual Programming studies.
+
+---
+
+⭐ Thank you for visiting this repository!
